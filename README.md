@@ -1,2 +1,3 @@
-# educative.io_courses
-this is downloadings of all educative.io free student subscription courses
+# Educative.io Course Archive
+This repository contains courses accessible through educative.io's Student promotion.
+Feel free to use!
